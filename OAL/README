@@ -1,0 +1,5 @@
+For building and generating the gtest report of OAL execute below command inside the OAL folder
+./generate_OAL_coverage_report.sh or 
+
+sh generate_OAL_coverage_report.sh
+
