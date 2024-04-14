@@ -1,0 +1,5 @@
+For building and generating the gtest report of ocg_wrapper execute below command inside the ocgwrapper folder
+./generate_ocg_coverage_report.sh or 
+
+sh generate_ocg_coverage_report.sh
+
